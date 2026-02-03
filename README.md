@@ -28,6 +28,7 @@ Implemented a **Double-Entry Wallet System** via Triggers to prevent fraud:
 - Automated rollback triggers handle cancellations and refunds.
 
 ## 🛠 Database Schema
+![ER Diagram](ER_diagram.png)
 The system is normalized to **BCNF** (Boyce-Codd Normal Form), with documented exceptions for performance.
 
 ### Core Entities:
